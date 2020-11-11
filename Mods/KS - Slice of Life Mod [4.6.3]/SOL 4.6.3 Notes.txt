@@ -1,0 +1,15 @@
+4.6 Update notes:
+https://www.kawaiistaciemods.com/updates
+
+
+4.6.3 Update note:
+
+Personality System
+- Only children, insane, or evil sims will be seen whistling. The sound echos to the player's screen if they are nearby.
+- Turning around awkwardly will only happen with children and insane sims.
+- Most interactions have been disabled for get to work workplaces, bars, clubs, restaurants, and cafes.
+- Call to clean and call to bed has been modified. 
+- Only clumsy sims, children, angry sims, or dazed/drunk sims will have a chance of falling.
+
+All Systems
+- Rabbit Holes fixed!
