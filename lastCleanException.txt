@@ -1,0 +1,86 @@
+Game Version: 1.66.139.1020 | OS: Windows 10.0.18363 | Created at: 2020-11-09 19:42:40.629492
+Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\scheduling.py", line 212, in simulate
+  File "T:\InGame\Gameplay\Scripts\Server\elements.py", line 376, in _run
+  File "T:\InGame\Gameplay\Scripts\Server\animation\animation_element.py", line 185, in do_begin
+  File "T:\InGame\Gameplay\Scripts\Server\animation\asm.py", line 1064, in request
+RuntimeError: ASM :: soc_friendly_NT_excitingStory (HANDLE :: 149251)>: Attempt to traverse between two states (entry -> Succeed) where no valid path exists! Actors {'x': (<weakref at 0x00007FF48E6C6DB8; to 'object_sim' at 0x00007FF486425650>, None, <AnimationParticipant.ACTOR = 101>)} (debug context: Interaction <class 'sims4.tuning.instances.mixer_social_TellEngagingStory_group_Friendly_MiddleScore'> on ; id:85069, sim:)
+Cause: Exception in Sim Timeline: Exception running Element
+---------------
+
+Game Version: 1.66.139.1020 | OS: Windows 10.0.18363 | Created at: 2020-11-09 00:38:26.190222
+  File "T:\InGame\Gameplay\Scripts\Core\sims4\commands.py", line 395, in invoke_command
+  File "T:\InGame\Gameplay\Scripts\Server\server_commands\interaction_commands.py", line 905, in select_choice
+  File "T:\InGame\Gameplay\Scripts\Server\server\client.py", line 265, in select_interaction
+  File "T:\InGame\Gameplay\Scripts\Server\objects\base_object.py", line 276, in reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 308, in trigger_reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 426, in start_processing
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 450, in _process
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 601, in _process_one_record
+Cause: Exception processing ResetRecord:<, reason:ResetReason.RESET_ON_ERROR, stage:_Stage.INTERNAL_STATE_RESET, being_processed:True, source:None, cause:Exception while selecting interaction from the pie menu.. This will result in a partially reset object
+---------------
+
+Game Version: 1.66.139.1020 | OS: Windows 10.0.18363 | Created at: 2020-11-09 00:38:26.090978
+  File "T:\InGame\Gameplay\Scripts\Core\sims4\commands.py", line 395, in invoke_command
+  File "T:\InGame\Gameplay\Scripts\Server\server_commands\interaction_commands.py", line 905, in select_choice
+  File "T:\InGame\Gameplay\Scripts\Server\server\client.py", line 265, in select_interaction
+  File "T:\InGame\Gameplay\Scripts\Server\objects\base_object.py", line 276, in reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 308, in trigger_reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 426, in start_processing
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 450, in _process
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 560, in _process_one_record
+  File "T:\InGame\Gameplay\Scripts\Server\sims\sim.py", line 1782, in on_reset_internal_state
+Cause: TODO: Exception thrown during Sim reset, possibly we should be kicking the Sim out of the game.
+---------------
+
+Game Version: 1.66.139.1020 | OS: Windows 10.0.18363 | Created at: 2020-11-09 00:38:25.981365
+  File "T:\InGame\Gameplay\Scripts\Core\sims4\commands.py", line 395, in invoke_command
+  File "T:\InGame\Gameplay\Scripts\Server\server_commands\interaction_commands.py", line 905, in select_choice
+  File "T:\InGame\Gameplay\Scripts\Server\server\client.py", line 265, in select_interaction
+  File "T:\InGame\Gameplay\Scripts\Server\objects\base_object.py", line 276, in reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 308, in trigger_reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 426, in start_processing
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 450, in _process
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 548, in _process_one_record
+  File "T:\InGame\Gameplay\Scripts\Server\elements.py", line 87, in trigger_hard_stop
+  File "T:\InGame\Gameplay\Scripts\Server\scheduling.py", line 554, in hard_stop
+  File "T:\InGame\Gameplay\Scripts\Server\scheduling.py", line 655, in _stop_element_tree
+  File "T:\InGame\Gameplay\Scripts\Server\elements.py", line 403, in _hard_stop
+  File "T:\InGame\Gameplay\Scripts\Server\postures\transition_sequence.py", line 1673, in run_transitions
+  File "T:\InGame\Gameplay\Scripts\Server\postures\transition_sequence.py", line 895, in cancel
+  File "T:\InGame\Gameplay\Scripts\Server\postures\transition_sequence.py", line 928, in cancel_sequence
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4825, in cancel
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4592, in _cancel_eventually
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\social\social_super_interaction.py", line 1565, in _cancel
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4728, in _cancel
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4825, in cancel
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4592, in _cancel_eventually
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4746, in _cancel
+Cause: Exception during SI.cancel  running carry_HoldSim:6014 on , cancel_reason_msg is Posture Owning Interaction Canceled:
+---------------
+
+Game Version: 1.66.139.1020 | OS: Windows 10.0.18363 | Created at: 2020-11-09 00:38:25.910614
+  File "T:\InGame\Gameplay\Scripts\Core\sims4\commands.py", line 395, in invoke_command
+  File "T:\InGame\Gameplay\Scripts\Server\server_commands\interaction_commands.py", line 905, in select_choice
+  File "T:\InGame\Gameplay\Scripts\Server\server\client.py", line 265, in select_interaction
+  File "T:\InGame\Gameplay\Scripts\Server\objects\base_object.py", line 276, in reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 308, in trigger_reset
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 426, in start_processing
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 450, in _process
+  File "T:\InGame\Gameplay\Scripts\Server\services\reset_and_delete_service.py", line 548, in _process_one_record
+  File "T:\InGame\Gameplay\Scripts\Server\elements.py", line 87, in trigger_hard_stop
+  File "T:\InGame\Gameplay\Scripts\Server\scheduling.py", line 554, in hard_stop
+  File "T:\InGame\Gameplay\Scripts\Server\scheduling.py", line 655, in _stop_element_tree
+  File "T:\InGame\Gameplay\Scripts\Server\elements.py", line 403, in _hard_stop
+  File "T:\InGame\Gameplay\Scripts\Server\postures\transition.py", line 475, in _do_transition
+  File "T:\InGame\Gameplay\Scripts\Lib\contextlib.py", line 130, in __exit__
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4580, in cancel_deferred
+  File "T:\InGame\Gameplay\Scripts\Server\interactions\base\super_interaction.py", line 4746, in _cancel
+Cause: Exception during SI.cancel  running generic_Baththub_ToddlerBath:6316 on object_bathtubCLSquare_01:0x0ac20c29adc806c8[6]  (guaranteed), cancel_reason_msg is object destroyed:
+---------------
+
+> NEW ERRORS APPEAR AT THE TOP OF FILE <
+
+Package Mods (195): AFSBlackSimsCurlyBunCFConv.package, AFSBlackSimsCurlyBunPFConv.package, AFSBlackSimsCurlyPonyConvChild.package, AFSBlackSimsCurlyPonyPFConv.package, Alicia Clips Toddlers XxBlacksims.package, Alicia Clips XxBlacksims.package, Alicia Hair Clips Child XxBlacksims.package, Alicia Hair UpDown curls XxBlacksims.package, Alicia Hair XxBlacksims.package, Alicia UpDown Hair Child XxBlacksims.package, Alicia UpDown Hair Toddler XxBlacksims.package, Aveira_MadlenNeroniSneakers_Recolor_Pattern.package, Aveira_MadlenNeroniSneakers_Recolor_Solids.package, Brandy Braids Child XxBlacksims.package, Brandy Curls Child XxBlacksims.package, Brandy Curls Toddler XxBlacksims.package, Brandy curls XxBlacksims.package, BrandyBraids XxBlacksims.package, BrandyClips XxBlacksims.package, BrandyHair Clips Toddlers XxBlacksims.package, BrandyHair Toddler XxBlacksims.package, BrandyHairClips Child XxBlacksims.package, Camuflaje - Alyssa.package, Camuflaje - Jasmin bottom.package, Camuflaje - Jasmin top.package, Harmonia_KKWstractTCrpTop.package, Harmonia_ShinyMetallicVNdress.package, Harmonia_SportsCagedPBottom.package, Harmonia_yfBody_FloralTextBeltedSwimwear.package, Harmonia_yfBody_LaceTrimHwaistTeddy.package, Jaden Beads 2 XxBlacksims.package, Jaden Beads XxBlacksims.package, Jaden Hair XxBlacksims.package, KS - SOL Acne (Various).package, KS - SOL Appearance & Skincare.package, KS - SOL Art of Makeup Book.package, KS - SOL Blush.package, KS - SOL Doctor Interactions.package, KS - SOL Drama System.package, KS - SOL Drunk Buffs.package, KS - SOL Drunk System.package, KS - SOL Drunk.package, KS - SOL Embarrased.package, KS - SOL Emotion Name Overhaul.package, KS - SOL Face Mask Packet.package, KS - SOL Face Masks for Packets.package, KS - SOL Fight (Bruised).package, KS - SOL Goodbye Notifications.package, KS - SOL Health Beauty System.package, KS - SOL Injuries.package, KS - SOL Interactions [Cheat].package, KS - SOL Main System.package, KS - SOL Makeup Kit.package, KS - SOL Makeup Looks.package, KS - SOL Memory System.package, KS - SOL Menstrual Cycle Odor.package, KS - SOL Menstrual Cycle System.package, KS - SOL Menstrual Toliet Interaction.package, KS - SOL Menus [Dont delete].package, KS - SOL NPC Popup Texts [Interactive].package, KS - SOL NPC System Base.package, KS - SOL Party & Study Event.package, KS - SOL Party Inviter.package, KS - SOL Party Roles & Buffs.package, KS - SOL Party System.package, KS - SOL Personality Interactions [Base].package, KS - SOL Personality Types.package, KS - SOL Phone Menu & Version.package, KS - SOL Phone System.package, KS - SOL Phone Texting.package, KS - SOL Popup Texts [Regular].package, KS - SOL Popup Visitors.package, KS - SOL Pregnancy System.package, KS - SOL Puke.package, KS - SOL Rabbit Hole Loots.package, KS - SOL Rabbit Hole Traveling.package, KS - SOL Random Hookups.package, KS - SOL Self Woohoo Buffs.package, KS - SOL Self Woohoo Interaction.package, KS - SOL Sickness Broadcasters.package, KS - SOL Sickness System.package, KS - SOL Skin Care Benefits.package, KS - SOL Skin Care More Treatments.package, KS - SOL Skin Care Treatment.package, KS - SOL Sleep Here Interaction.package, KS - SOL Social Interactions System.package, KS - SOL Subtle Height Difference.package, KS - SOL Teary Eyes.package, KS - SOL Teen Hangouts.package, KS - SOL Teeth.package, KS - SOL Tiredness.package, KS - SOL Visitor System Base.package, LV Earrings Female XxBlacksims.package, LV Supreme Necklace XxBlacksims.package, LumiaLoverSims_OohSmooth2Male.package, Mably - BRIDAL gown 13.package, McLayneSims_FractureDenimJeans.package, McLayneSims_PacoCasualTrouser.package, Metens_Kate.package, Monah Beads XxBlacksims.package, Monah ChopSticks XxBlacksims .package, Monah Hair XxBLACKSIMS.package, Monah Hair2two XxBlacksims.package, NateTheL0ser_-_SOL_Preventable_Diseases.package, Nose Ring XxBlacksims.package, OLL Animations (AP).package, PBJEyelashes.package, PYXIS_StuckOnYou_Skintones_NATURAL-RoM_WW.package, PYXIS_StuckOnYou_Skintones_SUPERNATURAL-RoM.package, PZC_Sunset Denim Ripped Jeans 017.package, PlumbobScytheMeteorEyesChildToddlerFacepaint.package, PlumbobScytheMeteorEyesFacepaint.package, PlumbobScytheMeteorEyesNonDefaults (1).package, Puresim_Blackandwhite_dress.package, Puresim_choker_top.package, Ribaa_blouse_by_belaloallure.package, Rimini_sfs_recolor.package, Sentate-SS19-AlegraDress.package, Sentate-SS19-ApolloniaArmCuffs.package, Sentate-SS19-ArielChoker.package, Sentate-SS19-AthenaDress.package, Sentate-SS19-BelisamaDress.package, Sentate-SS19-EkiNecklace2.package, Sentate-SS19-EvieDress.package, Sentate-SS19-IcarusCuffs.package, Sentate-SS19-LuciaSwimsuit.package, Sentate-SS19-MegaraHeelsOverTheKnee.package, Sentate-SS19-MegaraSandals.package, Sentate-SS19-MidasArmBracelets-Version2.package, Sentate-SS19-MidasArmBracelets-Version3.package, Sentate-SS19-MidasArmBracelets.package, Sentate-SS19-NadiaBoots.METALLIC.package, Sentate-SS19-NaomiDress.package, Sentate-SS19-PammyPlaysuit.package, Sentate-SS19-PazDress.package, Sentate-SS19-PingaMules.package, Sentate-SS19-SulisHat.package, Sentate-SS19-VanessaDress.package, Sentate-SS19-YolaEarrings.package, Sentate-SS19-YvetteGlasses.package, Sentate-SS19-ZenobiaArmBangles.package, Shea_top_by_belaloallure.package, Small LV Earrings MaleandFemale XxBlacksims.package, Spring frill dress.package, SxL_TSS_Merged.package, TURBODRIVER_WickedWhims_Tuning.package, TeaWurstTrackPants.package, TeaWurstTrackSocks.package, TeaWurstTrackTop.package, Toyah CurlyPuff Toddler XxBlacksims.package, ToyahCurlyFro XxBlacksims.package, Toyahcurly puff Child XxBlacksims.package, TylerW Cars - 2007 Hummer H3x.package, UI_Cheats_Extension.package, WW_Zorak_Animation.package, Wild Curly Fro Toddlers XxBlacksims.package, Wild CurlyFro Child XxBlacksims.package, WildCurly Fro Headband Toddlers XxBlacksims.package, WildCurlyfro headband XxBlacksims.package, Wildcurly Fro XxBlacksims.package, WildcurlyFro Headband Child XxBlacksims.package, [ADIEC] Eyebrows 01.package, [ADIEC] Eyebrows 02.package, [ADIEC] Eyebrows 03.package, [Kijiko]eyelash_YF_version2.package, [Kijiko]eyelash_YF_version2_expansion-lashes00.package, [Kijiko]eyelash_YU_version2_match-hair.package, [LightDeficient] HQ Brows #3.package, [catplnt] a nightmare in beige + liner.package, [catplnt] nightmare in beige + eyeshadow.package, [crypticsim] baddie b lipstick.package, [crypticsim] homecoming eyeshadow.package, [dfj-kellyhb5] Whisper Eyes Non Defaults.package, [greenllamas] Bismuth Hair Ombres.package, [greenllamas] Bismuth Hair.package, [helgatisha] Skinny jeans_f.package, [isjao]adelinehair.package, [isjao]jesshair.package, [isjao]nesshair.package, [isjao]snowbow.package, [isjao]starearings.package, [nuagelle]Awsimmer92NoseyPoseyHighlighter.package, [savvy.sweet] Blake Braids.package, [savvy.sweet] bella bun.package, [wild-pixel] Ascenda Hair.package, [wild-pixel] Gabbie Jeans.package, [wild-pixel] Louisa Hair REVAMPED.package, by bukovka_toddler mf_jumpsuit pets cats 081117.package, grimcookies_yfmakeup_valentines_2017.package, lillka_Rahel Dress.package, lillyan2072.package, manueapinny_Cheri.package, mc_cmd_center.package, redheadsims-ts4-KidsHairPackPart01.package, redheadsims-ts4-ToddlerHairPackPart01.package
+
+Script Mods (17): KS - SOL Personality Types.ts4script, KS - SOL Skincare System.ts4script, TURBODRIVER_WickedWhims_Scripts.ts4script, UI_Cheats_Extension_Scripts.ts4script, mc_career.ts4script, mc_cas.ts4script, mc_cheats.ts4script, mc_cleaner.ts4script, mc_clubs.ts4script, mc_cmd_center.ts4script, mc_control.ts4script, mc_dresser.ts4script, mc_gedcom.ts4script, mc_occult.ts4script, mc_population.ts4script, mc_pregnancy.ts4script, mc_tuner.ts4script
