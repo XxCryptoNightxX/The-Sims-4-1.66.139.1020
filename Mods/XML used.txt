@@ -1,0 +1,26 @@
+MainMod:
+00000000000237FD.buff_Role_Butler_NPC.BuffTuning.xml
+0000000000024F72.situation_Butler_Autonomous_Idle.InteractionTuning.xml
+00000000000241DE.desk_Clean_Butler.InteractionTuning.xml
+
+Addons*
+
+Hire more Butler:
+0000000000023F86.bed_Picker_AssignButler.InteractionTuning.xml
+
+Cannot Die:
+S4_CB5FDDC7_0000000F_0000000000023EB1_trait_isButler.xml
+
+No Cost Fix:
+0000000000023A52_serviceNpc_Butler.xml
+
+No Uniform:
+000000000002398D_job_Butler.xml
+
+No Gardening:
+0000000000023E65.butler_Roles_Gardener_Start.RoleStateTuning.xml
+0000000000024A38.buff_Role_Butler_GardenerRole_NPC.BuffTuning.xml
+
+NoAutoCook:
+0000000000024FFC.buff_Role_Butler_DontCook.BuffTuning.xml
+
