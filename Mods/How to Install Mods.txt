@@ -1,0 +1,9 @@
+If it is a simple One Version Mod: Copy the *.package File into you Sims 4 Mods Folder (Documents > Electronic Arts > The Sims 4 > Mods). If a Mod has Optional Addons, install them the same Way.
+
+***
+
+If it is a Mod which has more than one Version: Copy the *.package File you want into your Sims 4 Mods Folder. Don’t use more than One Version at the same Time!
+
+***
+
+If it is a Script Mod (has a *.ts4script inside the ZIP File): Copy the *.package File & *.ts4script File into your Sims 4 Mods Folder (not more than one Subfolder deep for example Documents > Electronic Arts > The Sims 4 > Mods > ScriptMods). Don’t rename any of those or it might not work. Enable Script Mods/CC via Game Options > Other Ingame. If there are more than one Version of a Mod available make sure to only install one Version (package) File.

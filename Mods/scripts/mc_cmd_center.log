@@ -1,7 +1,59 @@
-[Nov-09-2020 21:56:21]Initializing MC Command Center version: 7.4.0...
-[Nov-09-2020 21:57:46]Initializing Zone Data...
-[Nov-09-2020 22:45:05]******************************************************
-[Nov-09-2020 22:45:05]Running alarms for Monday (1)
-[Nov-09-2020 22:45:24]* Created household, , from an unknown filter: WickedWhims: Menu Icon Sim
-[Nov-10-2020 00:36:38]* Created homeless household, Kuresa, containing 1 sim(s) for: filter_Entertainer_Musician
-[Nov-10-2020 00:38:02]* Created homeless household, Kalawai'a, containing 1 sim(s) for: filter_Entertainer_Musician
+[Nov-26-2020 12:18:52]Initializing MC Command Center version: 7.4.0...
+[Nov-26-2020 17:40:43]Initializing Zone Data...
+[Nov-26-2020 17:50:46]* Created homeless household, Jennings, containing 1 sim(s) for: filter_UniversityStudent_Arts_Bike
+[Nov-26-2020 19:24:55]******************************************************
+[Nov-26-2020 19:24:55]Running alarms for Saturday (6)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Potters Splay (<class 'sims4.tuning.instances.region_Residential_WillowCreek'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Hallow Slough (<class 'sims4.tuning.instances.region_Residential_WillowCreek'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: noname (<class 'sims4.tuning.instances.region_Residential_Newcrest'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Hillside Highlands (<class 'sims4.tuning.instances.region_Residential_Newcrest'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Civic Cliffs (<class 'sims4.tuning.instances.region_Residential_Newcrest'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: noname (<class 'sims4.tuning.instances.region_Residential_Newcrest'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: lot (<class 'sims4.tuning.instances.region_Residential_Newcrest'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Comfy Cubby (<class 'sims4.tuning.instances.region_Residential_Newcrest'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Oak Alcove (<class 'sims4.tuning.instances.region_Residential_Newcrest'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Pebble Burrow (<class 'sims4.tuning.instances.region_Residential_OasisSprings'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Dusty Turf (<class 'sims4.tuning.instances.region_Residential_OasisSprings'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Arid Ridge (<class 'sims4.tuning.instances.region_Residential_OasisSprings'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Tail's End (<class 'sims4.tuning.instances.region_Residential_PetWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Hindquarter Hideaway (<class 'sims4.tuning.instances.region_Residential_PetWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Dachshund's Creek (<class 'sims4.tuning.instances.region_Residential_PetWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Sporting Space (<class 'sims4.tuning.instances.region_Residential_PetWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Beach marriage (<class 'sims4.tuning.instances.region_Residential_IslandWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: marbella zagaleta  photo (<class 'sims4.tuning.instances.region_Residential_IslandWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Brooks Bridge Borough (<class 'sims4.tuning.instances.region_Residential_Magic'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Glimmerbrook Watch (<class 'sims4.tuning.instances.region_Residential_Magic'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: The Summer Home (<class 'sims4.tuning.instances.region_Residential_NorthEurope'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Mid-Nowhere (<class 'sims4.tuning.instances.region_Residential_NorthEurope'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Fledermaus Bend (<class 'sims4.tuning.instances.region_Residential_VampireWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Inner Circle (<class 'sims4.tuning.instances.region_Residential_FameWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Vacuous Green (<class 'sims4.tuning.instances.region_Residential_FameWorld'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Creek Corner Cove (<class 'sims4.tuning.instances.region_Residential_Strangetown'>)
+[Nov-26-2020 19:24:55]Lot is invalid as there are no beds: Cliff Side Crest (<class 'sims4.tuning.instances.region_Residential_Strangetown'>)
+[Nov-26-2020 19:24:55]The Havens family moved into langelier residence
+[Nov-26-2020 19:24:55]Checking for random pregnancies
+[Nov-26-2020 19:24:55]*** Started pregnancy for Nancy Landgraab with Geoffrey Landgraab.
+[Nov-26-2020 19:24:55]*** Started pregnancy for Shayla Boone with Robin Boone.
+[Nov-26-2020 19:24:55]*** Started pregnancy for Lisa Moran with Knox Greenburg.
+[Nov-26-2020 19:24:55]Started 3 pregnancies
+[Nov-26-2020 19:24:55]*** Started pet pregnancy for Cleo with Mayor Whiskers.
+[Nov-26-2020 19:24:55]*** Started pet pregnancy for Rani with Bartholomew A. Bittlebun, Sr..
+[Nov-26-2020 19:24:55]No valid dogs found to be a partner in pregnancy with Blue.
+[Nov-26-2020 19:24:55]Started 2 pet pregnancies
+[Nov-26-2020 19:24:55]Checking for random marriage
+[Nov-26-2020 19:24:55]>>> Married L. Faba and Hakim Choukri and renamed household to Choukri
+[Nov-26-2020 19:24:55]L. Choukri was married this random marriage cycle.
+[Nov-26-2020 19:24:55]>>> Married Lana McKinnon and Arjun Mahajan and renamed household to Mahajan
+[Nov-26-2020 19:24:55]Lana Mahajan was married this random marriage cycle.
+[Nov-26-2020 19:24:55]Married 2 sims
+[Nov-26-2020 21:47:28]******************************************************
+[Nov-26-2020 21:47:28]Running alarms for Sunday (0)
+[Nov-26-2020 22:06:13]Cleo delivered 1 baby.
+[Nov-26-2020 22:06:13]Rani delivered 2 babies.
+[Nov-26-2020 23:12:03]* Created homeless household, Shelton, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Nov-26-2020 23:12:18]* Created homeless household, Kuhn, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Nov-26-2020 23:12:34]* Created homeless household, Trujillo, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Nov-26-2020 23:13:25]* Created homeless household, Myles, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat_InHeat
+[Nov-26-2020 23:46:27]******************************************************
+[Nov-26-2020 23:46:27]Running alarms for Monday (1)
+[Nov-26-2020 23:47:10]Shayla Boone had 1 baby with Robin Boone.

@@ -1,0 +1,39 @@
+22.08.2017 - Patch Update for 1.33.38.1020
+07.11.2017 - Patch Update for 1.36.99.1020
+18.11.2017 - Fixed an Issue with Bed Assignments & Put Away Interaction
+05.12.2017 - Added Nanny ChangeBaby, Pet Care Feed Pet (all Versions) and Evolve Plants (with Gardening Versions) to "buff_Role_Butler_NPC"
+12.12.2017 - Update for Patch 1.37.35.1010
+14.12.2017 - Small Buff Fix
+11.01.2018 - Patch Update for 1.38.49.1020
+06.02.2018 - Added a Better Butler Version without Put Away Food only
+07.04.2018 - Added a Butler "CostFix" Addon. When traveling to another Lot it often happend that you had to pay the Butler over and over again even through the Upfront Payment should only happen once when you hire them. So i changed the upfront Payment from 175$ to 0$ and increased the hourly Payment from 12$ to 15$ instead. Same changes are made in the Second Butler Packages!
+17.04.2018 - Added Dansk Translation by Sighubert, Added two new Addons 1) Forbidden Moods (The following Moods should be forbidden for Bulters: Uncomfortable, Bored, Stressed, Dazed, Flirty) 2) Buff related high Chance for Butlers to go to Bed ~ 11pm-1am plus they will wake up earlier in the morning ~ 6am
+24.05.2018 - Patch Update 1.43.14.1020 (Cost Fix Addon & Hire 2 Butler)
+16.06.2018 - Reworked Second Butler Part into "Hire more Butler". (Now Hireable via new Phone Menu & up to four additional Butler hireable) Read Description for more Infos. Small adjustment in the Better Butler Main Mod (without Gardening Versions)
+20.06.2018 - Patch Update 1.44.77.1020
+23.06.2018 - Added Portuguese Translation by Ana Carolina
+23.06.2018 - Since the Patch Butler were standing around like Zombies too much (EA "Bug"). I balanced the Mod a bit to let them do more again (cleaning Desks etc)
+26.06.2018 - Had to lock Hunger Motive for all since some Butler where mysteriously dying.
+01.07.2018 - Added Swedish Translation by hellogreeny
+25.08.2018 - Added "No Uniform Outfit" Addon (can be uses as Standalone). This only works for newly hired Butlers! Seperated Locked Stats from the Better Butler Mod so you can decide which Stats (Hunger etc.) you want to be locked for Butlers (Addon/Locked Stats). Delete old Files!
+02.10.2018 - Set "static_commodity_score_multipliers" higher for better Autonomy Behaviour. 
+13.11.2018 - Patch Update 1.47.49.1020
+21.11.2018 - Added French Translation by lorraine5530
+09.12.2018 - Added Japanese by maru dada
+13.12.2018 - Adjusted Mod a bit regarding the Put away Food Interaction. (EA changed something so Butler do it on their own Ingame so i changed my edits a bit)
+17.12.2018 - Added Spanish Translation by Morphine
+09.01.2019 - Since some were having Issues with starving Butlers i added within the Addons a Cannot Die Addon. Within the Addon Folder is a new Folder named "Moods & Cannot Die" only install one of the packages inside that Folder! 
+16.01.2019 - Added Option to Fire the additional Butlers to the Phone Household Menu in case Butler disappear
+22.01.2019 - Reworked the Mod into one Main Mod + Optional Addons (read Mod Description for more Infos). Delete all old Files and your localthumbcache before updating!
+31.01.2019 - Adjusted Go to Sleep Addon so they will get the push to go to sleep a little longer in case you come home later.
+09.02.2019 - Added Polish by ????????
+13.02.2019 - "Hire more Butler" Butlers should not destroy PetBowls etc anymore after leaving the Lot.
+21.02.2019 - Patch Update 1.50.67.1020
+09.03.2019 - Added new Interaction on Terrain (with Leaves) were you can ask a Butler to "Rake Leaves"
+17.04.2019 - Missing Texts (Patch 1.51.75.1020 related) fixed
+18.06.2019 - Patch Update 1.52.100.1020
+23.07.2019 - Added Russian Translation by muramr
+12.11.2019 - Patch 1.58.63.1010 
+12.12.2019 - Patch 1.59.73.1020
+08.11.2020 - Added Italian by zaffirogarnet
+10.11.2020 - Patch 1.68.154.1020 Update

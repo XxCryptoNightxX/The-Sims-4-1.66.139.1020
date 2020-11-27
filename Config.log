@@ -21,7 +21,7 @@ CPU:             GenuineIntel
     HT:          1
     x64:         1
 Memory:          8135MB
-Free memory:     4845MB
+Free memory:     5104MB
 VA space:        134217728MB
 User:            tamoy
 Computer:        DESKTOP-F3BAPS9
@@ -40,29 +40,29 @@ Pixel program:   3.0
 Hardware TnL:    1
 Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
 === Options ===
-NumBoots 8
-LightingQuality 3
-GeneralReflections 3
-ObjectQuality 3
-VisualEffects 3
+NumBoots 51
+LightingQuality 2
+GeneralReflections 2
+ObjectQuality 2
+VisualEffects 2
 PostProcessing 1
-UseUncompressedTextures 1
+UseUncompressedTextures 0
 TerrainQuality 2
-EdgeSmoothing 1
+EdgeSmoothing 0
 TerrainSlopeScaling 1
-SimQuality 3
+SimQuality 2
 ViewDistance 3
 AdvancedRendering 1
 VerticalSync 1
 UseHiDpi 1
-UiScale 74
+UiScale 79
 UseOSDpi 1
 ResolutionWidth 1920
-ResolutionHeight 1080
+ResolutionHeight 1057
 ResolutionRefresh 0
 SceneResolution 3
-VisualQuality 4
-FullScreen 1
+VisualQuality 3
+FullScreen 0
 WindowedFullScreen 0
 FrameRateLimit 200
 DisableScreensaverInFullscreenMode 1
@@ -72,7 +72,7 @@ MasterLevel 255
 VoiceLevel 255
 SoundFXLevel 255
 MusicLevel 255
-MenuMusicLevel 255
+MenuMusicLevel 211
 UISoundSXLevel 255
 AmbientLevel 255
 FocusMute 1
@@ -104,12 +104,12 @@ VideoCaptureTime 0
 VideoCaptureHideUI 1
 AutonomyHousehold 3
 AutonomyDisabledForActiveSim 0
-SimsSetAgeSpeed 1
+SimsSetAgeSpeed 2
 SimsSetAgingEnabled 0
-TradSocialMenuEnabled 0
+TradSocialMenuEnabled 1
 MemoriesHelperEnabled 1
 AutoAgeUnplayed 0
-NPCReplacement 0
+NPCReplacement 1
 TutorialEnabled 1
 MaxProtectedSims 1
 SeasonLength 0
@@ -124,9 +124,9 @@ ShowWhims 1
 ShowModListStartup 1
 ModsDisabled 0
 ScriptModsEnabled 1
-ShowOnlineNotifications 1
-AutoReconnect 1
-OnlineAccess 1
+ShowOnlineNotifications 0
+AutoReconnect 0
+OnlineAccess 0
 DisableComments 0
 HideReportedContent 0
 RazerOptionEnabled 0
